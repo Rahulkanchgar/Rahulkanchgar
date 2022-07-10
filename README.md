@@ -2,7 +2,7 @@
 - 👀 I’m interested in development
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on react js project
-- 📫 How to reach me rahulkanchgar11@gmail.com
+- 📫 How to reach me rahulkanchgar1@gmail.com
 
 <!---
 Rahulkanchgar/Rahulkanchgar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
